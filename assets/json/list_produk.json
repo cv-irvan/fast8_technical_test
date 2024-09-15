@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_Indomaret.png",
+      "title": "Voucher Indomaret Rp50.000",
+      "harga": "Rp50.000",
+      "deskripsi": "Gunakan voucher ini untuk mendapatkan potongan Rp50.000 di semua toko Indomaret. Berlaku untuk transaksi minimal Rp200.000."
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ALFAMART_LOGO_BARU.png",
+      "title": "Voucher Alfamart Rp100.000",
+      "harga": "Rp100.000",
+      "deskripsi": "Dapatkan potongan Rp100.000 dengan voucher ini di Alfamart. Berlaku untuk pembelian minimal Rp500.000."
+    },
+    {
+      "img": "https://cdn1-production-images-kly.akamaized.net/FW_pbCKNMxDTn3cV0icP3XgBx2o=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4100889/original/081579600_1658802835-Google_Play1.jpg",
+      "title": "Voucher Google Play Rp50.000",
+      "harga": "Rp50.000",
+      "deskripsi": "Gunakan voucher Google Play senilai Rp50.000 untuk membeli aplikasi, game, film, dan konten digital lainnya di Google Play Store."
+    },
+    {
+      "img": "https://cdn1-production-images-kly.akamaized.net/FW_pbCKNMxDTn3cV0icP3XgBx2o=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4100889/original/081579600_1658802835-Google_Play1.jpg",
+      "title": "Voucher Google Play Rp100.000",
+      "harga": "Rp100.000",
+      "deskripsi": "Voucher Google Play sebesar Rp100.000 untuk digunakan dalam pembelian aplikasi, game, dan konten digital lainnya di Google Play Store."
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/id/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/800px-Starbucks_Corporation_Logo_2011.svg.png",
+      "title": "Voucher Starbucks Rp75.000",
+      "harga": "Rp75.000",
+      "deskripsi": "Nikmati minuman atau makanan senilai Rp75.000 di Starbucks dengan voucher ini. Berlaku di semua cabang Starbucks."
+    },
+    {
+      "img": "https://w7.pngwing.com/pngs/26/116/png-transparent-netflix-logo-netflix-television-show-streaming-media-film-netflix-logo-television-text-trademark-thumbnail.png",
+      "title": "Voucher Netflix Rp150.000",
+      "harga": "Rp150.000",
+      "deskripsi": "Gunakan voucher Netflix senilai Rp150.000 untuk berlangganan layanan streaming Netflix. Berlaku untuk langganan baru dan perpanjangan."
+    },
+    {
+      "img": "https://cdn.freebiesupply.com/logos/thumbs/2x/grab-logo.png",
+      "title": "Voucher Grab Rp50.000",
+      "harga": "Rp50.000",
+      "deskripsi": "Voucher senilai Rp50.000 untuk digunakan pada layanan Grab, termasuk GrabCar, GrabBike, dan GrabFood. Berlaku untuk transaksi minimal Rp100.000."
+    },
+    {
+      "img": "https://lelogama.go-jek.com/cms_editor/2021/05/28/info-gojek-2.png",
+      "title": "Voucher Go-Jek Rp50.000",
+      "harga": "Rp50.000",
+      "deskripsi": "Dapatkan potongan Rp50.000 untuk layanan Go-Jek, termasuk GoRide, GoFood, dan GoCar. Berlaku untuk transaksi minimal Rp150.000."
+    },
+    {
+      "img": "https://indonesiareview.co.id/img/500/0/https://indonesiareview.co.id/uploads/files/vakantie/Booking-com.jpg",
+      "title": "Voucher Booking.com Rp200.000",
+      "harga": "Rp200.000",
+      "deskripsi": "Voucher senilai Rp200.000 untuk digunakan di situs Booking.com untuk pemesanan hotel dan akomodasi lainnya."
+    },
+    {
+      "img": "https://www.1min30.com/wp-content/uploads/2017/12/Embl%C3%A8me-Amazon.jpg",
+      "title": "Voucher Amazon Rp100.000",
+      "harga": "Rp100.000",
+      "deskripsi": "Gunakan voucher Amazon senilai Rp100.000 untuk membeli produk apapun di situs Amazon. Berlaku untuk semua kategori produk."
+    }
+  ]
+}

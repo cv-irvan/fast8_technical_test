@@ -1,0 +1,43 @@
+{
+    "data": [
+      {
+        "icon": "assets/svg/IKP_1.svg",
+        "title": "Hobi",
+        "route": "/hobi"
+  
+      },
+      {
+        "icon": "assets/svg/IKP_2.svg",
+        "title": "Merchandise",
+        "route": "/merchandise"
+  
+      },
+      {
+        "icon": "assets/svg/IKP_3.svg",
+        "title": "Gaya Hidup",
+        "route": "/gaya_hidup"
+  
+      },
+      {
+        "icon": "assets/svg/IKP_4.svg",
+        "title": "Konsultasi Medis",
+        "route": "/konsultasi_medis"
+  
+      },
+      {
+        "icon": "assets/svg/IKP_5.svg",
+        "title": "Perencanaan Keuangan",
+        "route": "/perencanaan_keuangan"
+      },
+      {
+        "icon": "assets/svg/IKP_6.svg",
+        "title": "Self Help",
+        "route": "/asuransi_properti"
+      },
+      {
+        "icon": "assets/svg/IKP_7.svg",
+        "title": "Kuliner",
+        "route": "/kuliner"
+      }
+    ]
+  }

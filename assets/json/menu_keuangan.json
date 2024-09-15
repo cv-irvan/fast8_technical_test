@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "icon": "assets/svg/IPK_1.svg",
+        "title": "Iuran Bersama",
+        "route": "/iuran_bersama"
+  
+      },
+      {
+        "icon": "assets/svg/IPK_2.svg",
+        "title": "Pembiayaan Haji",
+        "route": "/pembiayaan_haji"
+  
+      },
+      {
+        "icon": "assets/svg/IPK_3.svg",
+        "title": "Finance Chack Up",
+        "route": "/finance_check_up"
+  
+      },
+      {
+        "icon": "assets/svg/IPK_4.svg",
+        "title": "Asuransi Mobil",
+        "route": "/asuransi_mobil"
+  
+      },
+      {
+        "icon": "assets/svg/IPK_5.svg",
+        "title": "Asuransi Properti",
+        "route": "/asuransi_properti"
+  
+      }
+    ]
+  }
